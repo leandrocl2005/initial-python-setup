@@ -1,0 +1,6 @@
+__pycache__
+.pytype
+.pytest_cache
+.nox
+.mypy_cache
+py38NoxPytestFlake

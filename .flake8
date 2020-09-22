@@ -1,3 +1,4 @@
 [flake8]
+select = D,E
 max-line-length = 80
 docstring-convention = numpy
